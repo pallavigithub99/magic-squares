@@ -10,3 +10,5 @@ def is_magic(A):
 
 print(is_magic(np.array([[2, 7, 6], [9, 5, 1], [4, 3, 8]])))
 print(is_magic(np.array([[1, 2, 3], [2, 3, 1], [3, 1, 2]])))
+print(is_magic(np.array([[16, 3, 2, 13], [5, 10, 11, 8],
+                         [9, 6, 7, 12], [4, 15, 14, 1]])))
